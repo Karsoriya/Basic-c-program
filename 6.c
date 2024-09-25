@@ -1,4 +1,4 @@
-//Use math library (pow(), sqrt(), etc.).
+//Math library (pow(), sqrt().......)
 
 #include <stdio.h>
 #include <math.h>
