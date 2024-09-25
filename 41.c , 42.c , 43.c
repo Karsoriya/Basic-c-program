@@ -15,8 +15,8 @@ int main(void) {
     }
   printf("\nThe length of the string is %d\n",i); 
   //Reversing and printing the string 
-  //here 1st for loop is just to update value of i such that a[i]='\0'
-  //the below snippet reverses the string independently
+  //  Here 1st for loop is just to update value of i such that a[i]='\0'
+  //Below snippet reverses the string independently
   printf("Reversed string is: ");
   for(i=0;a[i]!='\0';i++);
   for(a[i]='\0';i>=0;i--)
