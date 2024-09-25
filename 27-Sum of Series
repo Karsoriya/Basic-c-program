@@ -1,6 +1,4 @@
 // Output is sum = 1 + 1/2 + 1/4 + 1/6 + ... upto n terms
-// 'n' is numer of terms
-//'sum' is sum of n terms 
 #include <stdio.h>
 int main(void) {
   
