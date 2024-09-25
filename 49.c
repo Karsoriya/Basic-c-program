@@ -1,4 +1,4 @@
-//Input a matrix from user and display the same
+// Matrix formation
 #include <stdio.h>
 
 int main(void) {
