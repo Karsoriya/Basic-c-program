@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main()
 {
-  // using for loop
   int i,n,sum=0;
   printf("Enter n");
   scanf("%d",&n);
@@ -10,10 +9,9 @@ int main()
     sum= sum+i;
   printf("%d",sum);
 
-
-  /*
-  //using formula
-  int sum,n;
+/*
+  using formula
+   int sum,n;
   printf("Enter n");
   scanf("%d",&n);
   sum= (n*(n+1))/2;
