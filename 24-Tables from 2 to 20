@@ -1,7 +1,7 @@
 //This C program prints multiplication tables from 2 to 20
 #include <stdio.h>
-
-int main(void) {
+int main() 
+{
   int i,j,ans=1;
   for(i=2;i<=20;i++)
     { printf("\n");
