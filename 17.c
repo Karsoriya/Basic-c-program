@@ -1,4 +1,4 @@
-//This C program finds product of series: 1 2 3 4 5 .... n 
+//C program to find product of series: 1 2 3 4 5 .... n 
 #include<stdio.h>
 int main()
 {
