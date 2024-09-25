@@ -1,7 +1,7 @@
 //Sum of two matrices
 #include <stdio.h>
-
-int main(void) {
+int main()
+{
   int i,j,m,n,sum = 0;
   printf("Enter no. of rows:");
   scanf("%d",&m);
