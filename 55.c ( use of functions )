@@ -1,8 +1,8 @@
-//This C program gives sum and differences of two input integers using functions
 #include <stdio.h>
 int add(int x,int y);//x,y are formal parameters
 int sub(int x, int y);
-int main(void) {
+int main(void)
+{
   int a,b;
   printf("Enter two integers: ");
   scanf("%d%d",&a,&b);
