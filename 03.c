@@ -1,11 +1,10 @@
-//compare two input numbers
+// Comparing two  numbers
 
 #include <stdio.h>
 
-int main(){
-
+int main() 
+{
     int x, y;
-
     printf("Give two numbers\n");
     scanf("%d,%d",&x,&y);
 
