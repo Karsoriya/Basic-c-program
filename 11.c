@@ -19,7 +19,7 @@ int main()
   else if(P<50 && P>=40)
     printf("Grade is E");
   else 
-    printf("Agle saal aana");
+    printf("Better luck next time");
   return 0;
 
 }
