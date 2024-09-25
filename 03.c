@@ -1,7 +1,5 @@
 // Comparing two  numbers
-
 #include <stdio.h>
-
 int main() 
 {
     int x, y;
