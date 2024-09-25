@@ -1,4 +1,4 @@
-//This C program searches an array using functions 
+// C program for searching an array using functions 
 #include <stdio.h>
 void search();
 int main(void) {
