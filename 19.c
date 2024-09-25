@@ -1,7 +1,7 @@
 //This C program prints the factors of any given natural no.'s
 #include<stdio.h>
 int main(){
-    int n,i;
+    int i , n;
     printf("Enter any natural no. : ");
     scanf("%d",&n);
     printf("Factors of %d are: ",n);
