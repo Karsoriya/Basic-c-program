@@ -1,4 +1,4 @@
-//This C program prints series 2 4 16 256 ... upto n terms
+//C program to display series 2 4 16 256 ... upto n terms
 #include <stdio.h>
 
 int main() {
