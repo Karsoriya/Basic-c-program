@@ -1,4 +1,4 @@
-//This C program prints the factors of natural no.'s
+//This C program prints the factors of any given natural no.'s
 #include<stdio.h>
 int main(){
     int n,i;
