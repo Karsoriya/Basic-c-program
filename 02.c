@@ -1,10 +1,11 @@
-//Add two numbers and display the result.
+// Add two numbers and display the same
 
 #include <stdio.h>
 
-int main(){
+int main() 
+{
 
-    int x=2,y=3,z;
+    int x=3,y=5,z;
     z=x+y;
     printf("%d",z);
 
