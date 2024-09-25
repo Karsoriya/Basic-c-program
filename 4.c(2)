@@ -1,4 +1,4 @@
-//swap two numbers without third variable 
+//Swapping two numbers without using third variable 
 
 #include <stdio.h>
 int main(){
