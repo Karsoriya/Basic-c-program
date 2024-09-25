@@ -1,5 +1,4 @@
-//This C program checks whether the year is leap or not using ternary operator 
-#include <stdio.h>
+ #include <stdio.h>
 
 int main() 
 { 
