@@ -1,12 +1,9 @@
  #include <stdio.h>
-
-int main() 
-{ 
-
-    int yr; 
-    printf("enter a year: ");
-    scanf("%d",&yr);
-    (yr%4==0) ? (yr%100!=0? printf("The year %d is a leap year",yr): (yr%400==0 ? printf("The year %d is a leap year",yr): printf("The year %d is not a leap year",yr))) : printf("The year %d is not a leap year",yr); 
-
-    return 0; 
+ int main()
+ {
+   int a = 2;
+   int b = 3;
+   int c ;
+   c=a>b ?printf("first number is  larger"):printf(second number is larger")
+  return 0; 
 }
