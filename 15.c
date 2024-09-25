@@ -1,4 +1,4 @@
-//This C program displays all even numbers from 100 to 1 
+//Program to display  even numbers from 100 to 1 
 #include <stdio.h>
 
 int main() {
