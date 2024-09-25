@@ -1,6 +1,4 @@
-//This C program calculates the  factorial of any natural number
 #include <stdio.h>
-
 int main() {
   int i,fact,n;
   fact =1;
