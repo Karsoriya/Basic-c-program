@@ -7,7 +7,6 @@ void main(void) {
   scanf("%d%d",&a,&b);
   printf("Numbers before swapping: %d %d\n",a,b);
   swap(a,b);
-  //return 0;
 }
 void swap(int x,int y)
 {
