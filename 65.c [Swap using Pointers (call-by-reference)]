@@ -1,4 +1,3 @@
-//This C program swaps two integers using pointers and function(call-by-reference)
 #include<stdio.h>
 void swap(int *r,int *s)
 {
