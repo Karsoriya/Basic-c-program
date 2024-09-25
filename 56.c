@@ -23,7 +23,8 @@ int main(void) {
 
 //function to search an array
 void search(int arr[] ,int n,int s)
-{ int i,flag=1;
+{ 
+ int i,flag=1;
   for(i=0;i<n;i++)
     if(arr[i]==s)
     { 
