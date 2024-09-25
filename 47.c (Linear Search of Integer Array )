@@ -1,8 +1,6 @@
-/*This C program conducts Linear Search in an input array to find required number*/
-
 #include <stdio.h>
-
-int main() {
+int main()
+{
   int i,n,x,flag=0;//n:length of array,x:element to search for
   printf("Enter length of array:");
   scanf("%d",&n);
