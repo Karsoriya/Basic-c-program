@@ -3,7 +3,7 @@
 
 int main(void) {
   int i,j,ans=1;
-  for(i=1;i<=20;i++)
+  for(i=2;i<=20;i++)
     { printf("\n");
       for(j=1;j<=10;j++)
         {ans=i*j;
