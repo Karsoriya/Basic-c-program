@@ -2,10 +2,9 @@
 #include <stdio.h>
 int main()
 {
-    int x,y;
+    int x , y , temp ;
     printf("Enter the two numbers: \n");
     scanf("%d,%d",&x,&y);
-    int  temp = x;
     x=y;
     y=temp;
     printf("The numbers swapped are %d, %d\n",x,y);
