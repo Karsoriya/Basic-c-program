@@ -6,14 +6,14 @@ int main()
   scanf("%d",&n);
   int a[n];
   printf("Enter elements of array:");
-  for(i=1;i<=n;i++)
+  for(i=0;i<=n-1;i++)
     scanf("%d",&a[i]);
   printf("Enter the element to search for:");
   scanf("%d",&x);
-  for(i=1;i<=n;i++)
+  for(i=0;i<=n-1;i++)
    if(a[i]==x)
     {
-      printf("Found at position %d.\n",i);
+      printf("Found at position %d.\n",i+1);
       flag=1;
     }
   
