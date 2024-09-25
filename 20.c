@@ -1,6 +1,4 @@
-//This program checks whether the number is prime or not
 #include <stdio.h>
-
 int main() {
   int n,i,x=1;
   printf("Enter  any number: ");
