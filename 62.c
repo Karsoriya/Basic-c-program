@@ -17,9 +17,7 @@ int main(){
         printf("Enter roll number of student %d :",i+1);
         scanf("%d",&s[i].roll_no);
         printf("Enter grade of student %d :",i+1);
-        getchar();//getchar() removes the newline character from the buffer before reading the grade
-        //to avoid using getchar() , simply add a space before %c beloww
-        scanf("%c",&s[i].grade);
+        scanf("%c ",&s[i].grade);
     }
     printf("\nRoll No.\tName\t\tGrade\n");
     for(i =0;i<n;i++)
