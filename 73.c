@@ -5,7 +5,7 @@
 int main() {
         FILE *p;
         int roll = 28;
-        char name[ 50 ] = "Amaan";
+        char name[ 50 ] = "Soriya";
 
         p = fopen( "72.txt", "w" );
 
