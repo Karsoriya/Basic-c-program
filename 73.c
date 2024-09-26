@@ -7,7 +7,7 @@ int main() {
         int roll = 38;
         char name[ 50 ] = "Soriya";
 
-        p = fopen( "72.txt", "w" );
+        p = fopen( "73.txt", "w" );
 
         fprintf( p, "%d %s", roll, name );
 
