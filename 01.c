@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-   printf("Soriya Basharat Kar")!
+   printf("Soriya Basharat Kar");
    return 0;
 }
