@@ -26,7 +26,7 @@ int main(){
             topper = i;
     }
 
-    printf("Topper is %s , roll no. %d , percentage %f\n",s[topper].name,s[topper].roll_no,s[topper].percentage);
+    printf("Topper is %s , roll no. %d , percentage %f\n",s[i].name,s[i].roll_no,s[i].percentage);
 
     return 0;
 }
